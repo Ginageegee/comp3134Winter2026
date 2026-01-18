@@ -1,0 +1,22 @@
+What is the definition of server port?
+	- A virtual endpoint on a computer that allows some apps or 	services to send and receive data.
+	- Like a "path" to a specific room.
+
+What is server port range?
+	- Full set of possible port numbers (0 to 65535)
+
+How many bits does number above represent?
+	- 16 bits
+
+State 10 common server port
+
+1. 20 - FTP Data Transfer
+2. 21 - FTP Control 
+3. 22 - SSH
+4. 23 - Telnet
+5. 25 - SMTP (Email sending)
+6. 53 - DNS 
+7. 80 - HTTP
+8. 110 - POP3
+9. 143 - IMAP 
+10. 443 - HTTPS
