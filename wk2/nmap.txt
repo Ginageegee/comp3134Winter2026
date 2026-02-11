@@ -1,0 +1,49 @@
+root@COMP3134-Winter2026:~# nmap google.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-02-11 04:47 UTC
+Nmap scan report for google.com (142.250.139.102)
+Host is up (0.0031s latency).
+Other addresses for google.com (not scanned): 142.250.139.101 142.250.139.113 142.250.139.139 142.250.139.138 142.250.139.100 2607:f8b0:4023:1804::65 2607:f8b0:4023:1804::71 2607:f8b0:4023:1804::66 2607:f8b0:4023:1804::8b
+rDNS record for 142.250.139.102: lcyyzb-in-f102.1e100.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.95 seconds
+
+
+root@COMP3134-Winter2026:~# nmap -p 80 costco.ca
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-02-11 04:49 UTC
+Nmap scan report for costco.ca (23.39.214.213)
+Host is up (0.0026s latency).
+rDNS record for 23.39.214.213: a23-39-214-213.deploy.static.akamaitechnologies.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.08 seconds
+
+root@COMP3134-Winter2026:~# nmap -p 1-100 spotify.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-02-11 04:50 UTC
+Nmap scan report for spotify.com (35.186.224.24)
+Host is up (0.0031s latency).
+Other addresses for spotify.com (not scanned): 2600:1901:1:7c5::
+rDNS record for 35.186.224.24: 24.224.186.35.bc.googleusercontent.com
+Not shown: 99 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 1.84 seconds
+
+
+root@COMP3134-Winter2026:~# nmap -F 142.93.150.222
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-02-11 04:51 UTC
+Nmap scan report for COMP3134-Winter2026 (142.93.150.222)
+Host is up (0.0000070s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.10 seconds

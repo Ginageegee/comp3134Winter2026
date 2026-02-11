@@ -1,0 +1,236 @@
+WHOIS search results
+
+Domain Information
+Name: GOOGLE.COM
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registered On: 1997-09-15T04:00:00Z
+Expires On: 2028-09-14T04:00:00Z
+Updated On: 2019-09-09T15:39:04Z
+Domain Status:
+    client delete prohibited
+
+    client transfer prohibited
+
+    client update prohibited
+
+    server delete prohibited
+
+    server transfer prohibited
+
+    server update prohibited
+
+Name Servers:
+    NS1.GOOGLE.COM
+
+    NS2.GOOGLE.COM
+
+    NS3.GOOGLE.COM
+
+    NS4.GOOGLE.COM
+
+Registrant Contact
+Name:REDACTED REGISTRANT
+Organization:Google LLC
+Phone: REDACTED FOR PRIVACY
+Email: REDACTED FOR PRIVACY
+Mailing Address: REDACTED FOR PRIVACY
+
+Registrar Information
+Name: Markmonitor Inc.
+IANA ID: 292
+Abuse Contact Email: abusecomplaints@markmonitor.com
+Abuse Contact Phone: +1.2086851750
+
+
+
+
+Domain Information
+Name:TESLA.COM
+Registry Domain ID:187902_DOMAIN_COM-VRSN
+Registered On:1992-11-04T05:00:00Z
+Expires On:2026-11-03T05:00:00Z
+Updated On:2024-10-02T10:15:20Z
+Domain Status
+    client delete prohibited
+
+    client transfer prohibited
+
+    client update prohibited
+
+    server delete prohibited
+
+    server transfer prohibited
+
+    server update prohibited
+
+Name Servers
+    A1-12.AKAM.NET
+
+    A10-67.AKAM.NET
+
+    A12-64.AKAM.NET
+
+    A28-65.AKAM.NET
+
+    A7-66.AKAM.NET
+
+    A9-67.AKAM.NET
+
+    EDNS69.ULTRADNS.BIZ
+
+    EDNS69.ULTRADNS.COM
+
+    EDNS69.ULTRADNS.NET
+
+    EDNS69.ULTRADNS.ORG
+
+Registrant Contact
+Name: Domain Administrator
+Organization: DNStination Inc.
+Phone: +1.4155319335
+Fax: +1.4155319336
+Email: admin@dnstinations.com
+Mailing Address: 3450 Sacramento Street Suite 405, San Francisco, CA, 94118
+
+Technical Contact
+Name: Domain Administrator
+Phone: +1.4155319335
+Email: admin@dnstinations.com
+
+Registrar Information
+Name: Markmonitor Inc.
+IANA ID: 292
+Abuse Contact Email: abusecomplaints@markmonitor.com
+Abuse Contact Phone: +1.2086851750
+
+
+
+Name:IKEA.COM
+Registry Domain ID: 1501324_DOMAIN_COM-VRSN
+Registered On: 1995-07-29T04:00:00Z
+Expires On: 2026-07-05T08:40:23Z
+Updated On: 2025-07-01T05:13:57Z
+Domain Status
+    client delete prohibited
+
+    client transfer prohibited
+
+    server delete prohibited
+
+    server transfer prohibited
+
+    server update prohibited
+
+Name Servers
+    UDNS1.CSCDNS.NET
+
+    UDNS2.CSCDNS.UK
+
+Registrant Contact
+Organization: Inter IKEA Systems B.V.
+Email: https://domaincontact.cscglobal.com/contactholder/ikea.com/registrant
+
+Registrar Information
+Name: CSC Corporate Domains, Inc.
+IANA ID: 299
+Abuse Contact Email: domainabuse@cscglobal.com
+Abuse Contact Phone: tel:+1.8887802723
+
+
+Domain Information
+Name:ADOBE.COM
+Registry Domain ID: 4364022_DOMAIN_COM-VRSN
+Registered On: 1986-11-17T05:00:00Z
+Expires On: 2026-05-17T01:48:14Z
+Updated On: 2025-04-17T23:03:23Z
+Domain Status
+    client delete prohibited
+
+    client transfer prohibited
+
+    client update prohibited
+
+    server delete prohibited
+
+    server transfer prohibited
+
+    server update prohibited
+
+Name Servers
+    A1-217.AKAM.NET
+
+    A10-64.AKAM.NET
+
+    A13-65.AKAM.NET
+
+    A26-66.AKAM.NET
+
+    A28-67.AKAM.NET
+
+    A7-64.AKAM.NET
+
+Registrar Information
+Name: Nom-iq Ltd. dba COM LAUDE
+IANA ID: 470
+Abuse Contact Email: abuse@comlaude.com
+Abuse Contact Phone: tel:+442074218250
+
+
+
+Domain Information
+Name: walmart.ca
+Registry Domain ID: D117917-CIRA
+Registered On: 2000-11-08T19:51:24Z
+Expires On: 2026-12-01T05:00:00Z
+Updated On: 2024-10-30T09:59:13Z
+Domain Status
+    client delete prohibited
+
+    client transfer prohibited
+
+    client update prohibited
+
+Name Servers
+    a1-185.akam.net
+
+    a10-66.akam.net
+
+    a22-67.akam.net
+
+    a3-64.akam.net
+
+    a5-65.akam.net
+
+    a8-66.akam.net
+
+    pdnswm1.ultradns.net
+
+    pdnswm2.ultradns.net
+
+    pdnswm3.ultradns.org
+
+    pdnswm4.ultradns.org
+
+    pdnswm5.ultradns.info
+
+    pdnswm6.ultradns.co.uk
+
+Registrant Contact
+Name: Wal-Mart Canada Corp
+Phone: tel:+1.9058212111
+Fax: tel:+1.9058216353
+Email: netnames@wal-mart.com
+Mailing Address: 1940 Argentia Road, Mississauga, ON, L5N1P9
+
+Technical Contact
+Name: Kelly-Anne Kenny
+Organization: Wal-Mart Canada Corp
+Phone: tel:+1.9058212111
+Email: netnames@wal-mart.com
+Mailing Address: 1940 Argentia Road, Mississauga, ON, L5N1P9
+
+Registrar Information
+Name: MarkMonitor International Canada Ltd.
+IANA ID: not applicable
+Abuse Contact Email: abusecomplaints@markmonitor.com
+Abuse Contact Phone: tel:+1.2083895740

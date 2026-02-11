@@ -1,0 +1,13 @@
+Regina@DESKTOP-6VV736O MINGW64 ~
+$ ping 142.93.150.222
+
+Pinging 142.93.150.222 with 32 bytes of data:
+Reply from 142.93.150.222: bytes=32 time=9ms TTL=53
+Reply from 142.93.150.222: bytes=32 time=6ms TTL=53
+Reply from 142.93.150.222: bytes=32 time=6ms TTL=53
+Reply from 142.93.150.222: bytes=32 time=5ms TTL=53
+
+Ping statistics for 142.93.150.222:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 9ms, Average = 6ms

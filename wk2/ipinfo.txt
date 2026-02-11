@@ -1,0 +1,5 @@
+spotify.com ---35.186.224.24 San Francisco CA, United States
+costco.ca ---23.56.210.213 San Francisco CA, United States
+samsung.com ---211.45.27.231 San Francisco CA, United States
+uber.com ---104.36.194.73 San Francisco CA, United States
+ford.com ---19.12.97.37 San Francisco CA, United States
